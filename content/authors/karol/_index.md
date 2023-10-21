@@ -1,20 +1,19 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
-
+title: Karol Strutynski 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Karol
+last_name: Strutynski 
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - karol
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Auxiliary Researcher (FCT funded) 
 
 # Organizations/Affiliations
 organizations:
